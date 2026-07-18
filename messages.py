@@ -195,7 +195,7 @@ RU_TEXTS = {
 
 EN_TEXTS = {
     "start_message": (
-        "<b>Welcome to NEXUS – a reliable P2P guarantor</b>\n\n"
+        "<b>Welcome to Yes – a reliable P2P guarantor</b>\n\n"
         "<b>💼 Buy and sell anything – safely!</b>\n"
         "From Telegram gifts and NFTs to tokens and fiat – transactions are easy and risk-free.\n\n"
         "🔹 Convenient wallet management\n"
